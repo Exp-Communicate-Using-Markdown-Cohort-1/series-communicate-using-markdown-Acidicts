@@ -5,10 +5,10 @@
 # <h5>Num 5</h5>
 # <h6>Num 6</h6>
 
-# ```
-# $ git init
-# Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
-# ```
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
 
 Welcome to this markdown file
 
