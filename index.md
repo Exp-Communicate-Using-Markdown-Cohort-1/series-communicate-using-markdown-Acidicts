@@ -10,6 +10,10 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
+```
+![<image name>](<image link>)
+```
+
 Welcome to this markdown file
 
 - [x] List syntax is required
